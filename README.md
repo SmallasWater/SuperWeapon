@@ -8,3 +8,5 @@
 
 # 本插件依赖于 EconomyAPI 核心
 
+# Commands: [/c: 唤醒任务系统界面  /ic 唤醒创建任务界面  /fix-test 修复某些错误]
+
