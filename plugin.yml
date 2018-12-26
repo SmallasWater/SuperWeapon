@@ -1,0 +1,22 @@
+name: NewTask
+version: 3.0.3
+api: 
+- 3.0.0
+- 4.0.0
+author: 若水
+main: NewTask\TextMain
+load: POSTWORLD
+
+commands:
+ c:
+  description: §6任务主命令
+  usage: /c
+ ic:
+  description: §a任务管理
+  usage: /ic
+ fix-task:
+  description: §c更新玩家任务
+  usage: /fix-task
+ tell-player:
+  description: §7向玩家发送消息
+  usage: /tell-player
