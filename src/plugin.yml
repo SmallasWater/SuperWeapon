@@ -1,6 +1,0 @@
-name: Weapon
-main: Weapon.weapon
-version: "6.2.4.6"
-api: ["1.0.0"]
-author: "若水"
-load: POSTWORLD
